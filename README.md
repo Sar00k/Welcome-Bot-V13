@@ -1,5 +1,10 @@
 # Welcome-bot-V13
-Welcome bot with image v13 
+
+# Welcome bot with image v13 
 
 
-! POLAT BOT ©
+# lasar Repl itish kar dakat 
+
+
+
+# ! POLAT BOT ©
