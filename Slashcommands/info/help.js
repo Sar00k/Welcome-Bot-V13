@@ -5,7 +5,7 @@ module.exports = {
   options:[
     {
       name:"command",
-      description:"ThailandCodes / Th | N A S S E R ♕︎",
+      description:"Devil Staff  | POLAT BOT ♕︎",
       type:"STRING",
       choices:[
         {
