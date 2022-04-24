@@ -34,7 +34,7 @@ module.exports = {
                  })
       .setThumbnail(interaction.guild.iconURL({dynamic:true}))
         .setFooter({
-          text:"ThailandCodes © / Th | N A S S E R",
+          text:"Devil Staff  | POLAT BOT ♕︎",
           iconURL: interaction.guild.iconURL({dynamic:true})
         })
       .setColor("#4453F5")
