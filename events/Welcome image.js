@@ -5,10 +5,10 @@ const db = require("pro.db")
 const Discord = require("discord.js")
 client.on("guildMemberAdd", async member => {
   await Canvas.registerFont("PTSerif-Regular.ttf", { family: "PTSerif-Regular" });
-const canvas = Canvas.createCanvas(500,288);//ابعاد الصورة
+const canvas = Canvas.createCanvas(500,288);//
         const context = canvas.getContext('2d');
 
-        const background = await Canvas.loadImage('https://media.discordapp.net/attachments/723270561433911376/799715344423714816/5-7.png');//الصورة
+        const background = await Canvas.loadImage('https://media.discordapp.net/attachments/723270561433911376/799715344423714816/5-7.png');//
         context.drawImage(background, 0, 0, canvas.width, canvas.height);
 
 
