@@ -9,7 +9,7 @@ const client = new Client({intents:32767});
 
 
 
-const prefix = "+"
+const prefix = ""
 
 
 require("./handler")(client);
