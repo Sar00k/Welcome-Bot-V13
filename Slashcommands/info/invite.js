@@ -14,7 +14,7 @@ module.exports = {
     .setDescription(`Thank you \`${interaction.user.username}\` for choosing \`${client.user.username}\`
 Click the button to get invite [link](https://discord.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=8&scope=bot%20applications.commands) of the bot`)
     .setFooter({
-      text:"Devil Staff  | POLAT BOT ♕︎"
+      text:"Dev Sarok  | BOT"
     })
 
     let but = new MessageButton()
