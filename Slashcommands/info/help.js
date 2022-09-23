@@ -5,7 +5,7 @@ module.exports = {
   options:[
     {
       name:"command",
-      description:"Devil Staff  | POLAT BOT ♕︎",
+      description:"Dev Sarok  | BOT",
       type:"STRING",
       choices:[
         {
@@ -34,7 +34,7 @@ module.exports = {
                  })
       .setThumbnail(interaction.guild.iconURL({dynamic:true}))
         .setFooter({
-          text:"Devil Staff  | POLAT BOT ♕︎",
+          text:"Devil Staff  | BOT",
           iconURL: interaction.guild.iconURL({dynamic:true})
         })
       .setColor("#4453F5")
